@@ -15,4 +15,7 @@ int b=20;
 >>>>>>> Stashed changes
 
 int c=30;
+
 String name="ashok";
+String clg="jntu";
+
