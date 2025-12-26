@@ -15,3 +15,4 @@ int b=20;
 >>>>>>> Stashed changes
 
 int c=30;
+String clg="jntu"
