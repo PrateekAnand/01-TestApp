@@ -20,3 +20,4 @@ String name="ashok";
 String clg="jntu";
 int x=30;
 boolean b=false;
+byte bb=10;
