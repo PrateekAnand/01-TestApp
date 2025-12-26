@@ -18,4 +18,4 @@ int c=30;
 
 String name="ashok";
 String clg="jntu";
-
+int x=30;
